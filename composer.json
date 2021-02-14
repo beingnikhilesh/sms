@@ -1,0 +1,17 @@
+{
+  "name": "beingnikhilesh/sms",
+  "description": "Library to send Text SMS via various Channels",
+  "keywords": [
+        "php", "sms", "codeigniter", "smppsms"
+    ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "beingnikhilesh\\sms\\": "src/"
+    }
+  },
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
+
